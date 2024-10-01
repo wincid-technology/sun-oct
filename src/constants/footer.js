@@ -10,6 +10,11 @@ export const footerLinks = [
     href: "/products"
   },
   {
+    id: 2,
+    title: "Procedure",
+    href: "/procedure"
+  },
+  {
     id: 3,
     title: "Contact",
     href: "/contact"
